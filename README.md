@@ -1,0 +1,2 @@
+# crispy-winner
+Simulação Brasileiro 
